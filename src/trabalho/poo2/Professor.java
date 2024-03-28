@@ -36,4 +36,8 @@ public class Professor implements Consultavel {
         }
     }
     
+    public void mostrar(){
+        System.out.println("teste");
+    }
+    
 }
