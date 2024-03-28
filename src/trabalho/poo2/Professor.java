@@ -34,10 +34,5 @@ public class Professor implements Consultavel {
         for (Materia materia : listaDeMaterias) {
             System.out.println("- " + materia.getNome());
         }
-    }
-    
-    public void mostrar(){
-        System.out.println("teste");
-    }
-    
+    }    
 }
